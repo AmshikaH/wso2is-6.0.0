@@ -1,0 +1,1 @@
+(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[5017,1154],{51154:function(){window.__SAMPLE__="EXTENSIONS_DEMO"},15017:function(s,n,o){"use strict";o.r(n);o(51154)}}]);

@@ -1,0 +1,1 @@
+TID: [] [2022-10-31 09:57:33,935] []  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Value Target=admin Data={"Claim Value":["4419e389-a60b-4cb8-ab8b-f387b0f2e232"],"Claim":"urn:ietf:params:scim:schemas:core:2.0:id","Profile":"default"} Outcome=Success

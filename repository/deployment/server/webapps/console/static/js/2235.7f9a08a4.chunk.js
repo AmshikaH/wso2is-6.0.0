@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[2235,1663],{1663:function(n,s,e){e.r(s),e.d(s,{extensions:function(){return o}});var o={}},2639:function(n,s,e){e.r(s),e.d(s,{siLK:function(){return o}});var o={extensions:e(1663).extensions,name:"si-LK"}}}]);

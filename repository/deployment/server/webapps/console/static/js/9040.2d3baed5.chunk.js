@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[9040],{69040:function(o){o.exports=JSON.parse('{"compilerOptions":{"experimentalDecorators":true,"module":"commonjs","rootDir":".","outDir":"dist/src"},"extends":"../../../../../configs/common.tsconfig.json"}')}}]);

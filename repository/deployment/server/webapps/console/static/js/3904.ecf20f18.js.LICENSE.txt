@@ -1,0 +1,27 @@
+//! author : Arjunkumar Krishnamoorthy : https://github.com/tk120404
+
+//! author : Caio Ribeiro Pereira : https://github.com/caio-ribeiro-pereira
+
+//! author : Jefferson : https://github.com/jalex79
+
+//! author : Sampath Sitinamaluwa : https://github.com/sampathsris
+
+//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
+
+//! license : MIT
+
+//! locale : Portuguese (Brazil) [pt-br]
+
+//! locale : Portuguese [pt]
+
+//! locale : Sinhalese [si]
+
+//! locale : Tamil [ta]
+
+//! moment.js
+
+//! moment.js locale configuration
+
+//! momentjs.com
+
+//! version : 2.29.2

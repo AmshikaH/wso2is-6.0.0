@@ -1,0 +1,1 @@
+!function(){"use strict";var e=self;setInterval((function(){e.postMessage("")}),1e3)}();

@@ -1,0 +1,4 @@
+#Key and value types
+#Mon Oct 31 09:59:59 IST 2022
+valueType=org.wso2.identity.apps.taglibs.layout.controller.compiler.identifiers.ExecutableIdentifier
+keyType=java.lang.String
